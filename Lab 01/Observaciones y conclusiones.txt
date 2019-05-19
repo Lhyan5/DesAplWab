@@ -1,0 +1,58 @@
+Empezamos probando todas las funciones que node nos brindaba(1.1)
+
+Creamos nuestro primer archivo que nos daba un hola mundo en la consola al ejecutarse la 
+pagina(2.1)(2.2)
+
+Mejoramos el codigo de este y ahora nos dira en la consola que se inicio pero en la pagina 
+nos saldra el hola mundo(3.1)(3.2)(3.3)
+
+Creamos un bucle con un while el cual nos contaba los numeros de donde a veces se ejecutaba 
+error y no se veia nada(4.1)(4.2)
+
+Cambiamos un poco de codigo y volviendo a ejecitar vimso que el bucle contaba los numeros
+(4.3)(4.4)
+
+Creamos nuestras primeras conexiones entre archivos js y html que en este caso todo lo 
+controlaba el web.js(5.1)(5.2)
+
+Cambiamos el codigo para ver ligeros cambios pero no se notaban mucho(5.3)
+
+Empezamos a mejorar codigo en lo cual nos pedia identificar un error donde solo no se declaro
+la variable y despues de eso podiamos ejecutar nuestra pagina haciendo que de nuestro nombre
+completo(6.1)(6.2)(6.3)(6.4)
+
+Empezamos a subir de nivel y juntabamos diferentes archivos que se controlaban entre si haciendo
+casi lo mismo que los anteriores puntos(7.1)(7.2)
+
+Mejorando el codigo podemos hacer que nos de valores del mismo codigo lo cual solo cambiaria si
+cambiamos el codigo pero el primer punto lo ponemos normal y seguimos haciendo que de nuestro 
+nombre(8.1)
+
+Vemos la tarea1 que nos pide dar la hora en 2 formatos en lo que use el de 12 horas y el de 24 
+horas(Tarea01)
+
+La tarea2 nos pedia calcular los idas faltantes a travez de una fecha que nosotros escojamos
+(Tarea2)
+
+La tarea3 nos pedia un enrutador de paginas que cad avez que cambiemos la ruta nos lleve a 
+diferentes paginas pero todas controladas a travez del mismo archivo js(Tarea03)
+
+---------------------Observaciones y conclusiones---------------------
+
+Instalamos nodejs y probamos un varias funciones que tiene este.
+
+Creamos archivos y los conectamos entre si.
+
+Para iniciar las paginas lo haciamos por la consola donde podiamos hacer que nos de un mensaje 
+de confirmacion.
+
+Se puede hacer que todo este dentro de un mismo archivo o seprararlo a nuestro gusto.
+
+Tenemos que especificar bien las rutas ya que bota error en ciertos casos.
+
+Podemos hacer que mientras la ruta cambie tambien cambie una parte del codigo.
+
+Hicimos un bucle en el cmd que seguia y seguia y no paraba nunca.
+
+Se puede jugar con las fechas con lso numeros o con los distintos tipos de valores que haya para
+lograr los reusltados que deseemos.
