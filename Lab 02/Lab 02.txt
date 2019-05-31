@@ -1,0 +1,54 @@
+Iniciamos nuestrop royecyo con el npm init.(1.1)
+
+Nos preguntara si esta bien los datos y le damos ok, luego instalamos nuestros paquetes(1.2)
+
+Empezamos probando una miniaplicacion con un conteo de un array en 5 lineas (1.3)
+
+Luego implemntando codigo hicimos algo mas grande como un formato JSON(1.4)
+
+Implementandole mas funciones hicimos que nos llame dependiendo de los datos que pidamos.
+dependiendo como de filtros(1.5)
+
+Juntamos 2 archivos para dar origne a un hola mundo que se podia mover dependiendo del idioma (1.7)
+
+Creamos nuestro usuario en npm y lo registramos para ppoder subir nuestro proyecto a este(1.8)(1.9)
+
+Empezamos a crear ejemplos simples viendo como la velocidad a la que se ejecuta le gana a una funcion
+por muy abajo que haya una linea ejecutandose.(2.0)
+
+Probamos en la consola del navegador al hacer click a un boton como nos decia que apretabamos(2.1)
+
+Vimos como se llamaba el 20 de una funciona externa que usaba una funcion interna que hicimos para distinguir (2.2)
+
+Probamos otro ejemplo el cual creaba una persona o programador con su nombre su edad y el lenguaje de programacion de odnde nosotros 
+escogiamos a cual llamar(2.3)
+
+Creamos e implementamos codigo en todos los problemas pedidos, algunos eran grandes, otros pequeños, pero ya nos daba pistas el codigo de 
+que teniamos que crear dandonos cuenta de como tomaba cuerpo el codigo empezando por unas simples lineas
+(album, mayor, primo, quicksort, reproducciones, suma)
+
+--------------------------------------------------------------------------
+
+Observaciones y conclusiones
+
+1. Nos creamos una cuenta en npm y publicamos nuestro proyecto, donde generaba errores ya que no podia tener un nombre como el que pusimos 
+y tuvimos que cambiarlo a uno que no exista.
+
+2. Al usar el comando npm init nos pedira unos datos que o se llenan solos o los modificamos a nuestro gusto.
+
+3. Con la ayuda de la declaracion export podemos exportar funciones, objetos o tipos de dato del modulo para que puedan ser utilizados por
+otros programas con la sentencia import
+
+4.  Underscore proporciona mas de 100 funciones que son compatibles con sus ayudantes funcionales favoritos de trabajo: mapear , filtrar ,
+invocar , y tambien con funciones mas especializadas: enlace de funciones, plantillas de JS, creacion de indices rapidos, entre otros.
+
+4. Los exports con nombre son utiles cuando necesitamos exportar varios valores. Al momento de importar es importante usar el mismo nombre
+que el objeto exportado.
+
+5. En JS no existen las palabras reservadas public o private ni class, solo hay objetos que se heredan de otros. Todo esto se controla con
+closure. Es decir, si una funcion externa devuelve una funcion interna, la funcion interna tiene acceso a las variables de la externa.
+
+6. Existe un registro general de modulos llamado Node PAckage Registry en el cual nos permite compartir nuestros propios modulos, asi como
+descargar modulos de otros desarrolladores.
+
+7. Descargamos nuestro proyecto publicado y vimos que lo jala de manera diferente a la que lo subimos.

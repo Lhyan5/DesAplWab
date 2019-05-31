@@ -1,0 +1,19 @@
+<html>
+    <head>
+    </head>
+<body>
+    <button>Boton 1</button>
+    <button>Boton 2</button>
+    <button>Boton 3</button>
+<script>
+    var nodes = document.getElementsByTagName('button');
+    for (var i = 0; i < nodes.length; i++) {
+        nodes[i].addEventListener('click', function (event) {
+            var puls = event.target;
+            console.log('You clicked element #' + puls.innerText);
+        }, false);
+}
+</script>
+
+</body>
+</html>
