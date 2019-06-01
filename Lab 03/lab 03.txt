@@ -1,0 +1,34 @@
+Primero creamos nuestra app con el npm init y llenaremos lo que nos pide para despues
+crear un archivo index.js donde crearemos nuestro hola munod pero instalando lo que seria
+express(1.1)
+
+Despues creamos con express un proyecto llamado miapp en el cual entramops y lo corremos(1.2)
+para ver que nos daria(1.3)
+
+Luego probaremos en postman nuestro proyecto pero en diferentes metodos como GET (1.4)
+POST(1.5) PUT(1.6) DELETE(1.7) de ahi probamos como hacer carpetas principales como la que 
+hicimos llamada public sin tener que escribir en la direccion(1.8)
+
+Probamos cambiando el codigo en este(1.9)
+
+Cambiamos para que enves de poner public a la carpeta se llame como static(2.0)
+
+Controlamos errores como el 404 con un mensaje en caso este mal la url(2.1)
+
+===============================================================================================
+
+Observaciones y Conclusiones
+
+1. Se pue usar la misma url tanto para get post put delete y mas, porque cada una hiba en difernetes funciones.
+
+2. Inicializamos una app en nodejs y usamos express
+
+3. Express es un framework que nos proporciona funcionalidades de enrutamiento y nos sirve paa gestionar sesiones y cookies
+
+4. Gracias a la herramienta de express-generator se pudo crear rapidamente una pagina web
+
+5. Podemos ocultar el nombre de la carpeta donde tenemos todo poniendole otro
+
+6. Podemos controlar errores que puedan suceder en como el 404 o el 500 como hicimos en este laboratorio
+
+7. Algunas partes daban errores y teniamos que buscar formas de arreglarlos o hacerlo de formas diferentes.
