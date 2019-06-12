@@ -1,0 +1,47 @@
+Primero ponemos el package.json otorgado pro el profesor en la carpeta donde trabajaremos
+y le damos a npm install para luego correr la app donde nos indicara en que puerto esta(1.1)
+
+Vamos directamente a la pagina de inicio y vemos como se creo la interfaz(1.2)
+
+Con unos cambios hicimos que nos salga conectados cuando abrimos la pagina y desconectados 
+cuando la cerramos(1.3)
+
+Probamos el envio de datos en los campos de texto y vemos que si envia(1.4)
+
+Al cambiar codigo y crear nuevos datos salen los creados por cada usuario y se actualzia 
+en el otro.(1.5)
+
+Vemos la base de datos con todas las pruebas de que se estan agregando correctamente los 
+datos(1.6)
+
+Modificamos codigo para que salan todos los datos y tenga una velocidad de actualizacion mas
+amplia(1.7)
+
+Hicimos que al darle a actualizar se marque con un color indicando cual estamso editando
+y nos permite editar con los datos que deseemos(1.8)(1.9)
+
+Probamos el metodo para eliminar los datos echos(2.0)(2.1)(2.2)
+
+=============================================================================================
+
+Observaciones y conclusiones:
+
+Nos daba una base de datos con datos que no teniamos y teniaos que arreglar el codigo a lo
+que teniamos.
+
+Usamos JQuery para los diseños que pondremos.
+
+Al inicio no se ejecutaba el diseño de la interfaz pero luego cargo y se arreglo.
+
+Vimos como se mejoraba poco a poco la pagina.
+
+Vimos la actualziacion de datos en tiempo real.
+
+Usamos la conexion con mongodb como el laboratorio anterior.
+
+Hicimos todo un proceso crud con socket io en nuestra pagina.
+
+Tenemos que teer inicializado el mongoDB si no nos dara error.
+
+Hay que revisar bien el contenido ya que unos pequeños errores y todo nuestra pagina se malora y
+a veces es imposible detectar el error y tenemos que empezar nuevamente.

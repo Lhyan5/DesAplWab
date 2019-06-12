@@ -1,0 +1,48 @@
+Primero creamos un arhivo simple en donde ejecutamos el servidor en el puerto 5000 con un 
+mensaje puesto por nosotros(1.1)
+
+Vemso que al iniciar la pagina nos dice donde se ejecutara en que puerto y que se esta 
+ejecutando al inicio(1.2)
+
+Probamos la misma URL en Postman y nos dio el mismo resultado(1.3)
+
+Ahora creamos nuestras interfaces en React con unos cuantos comandos(1.4)
+
+Usaos unas Lineas de comando para instalar mas librerias(1.5)
+
+Luego de escribir todo el codigo ejecutamos la apliacion y vemos que nos da un inicio usando
+la api creada puntos antes(1.6)
+
+Al presionar el boton nos manda a un login el cual todavia funciona con los datos llamados
+de usuario creado en el postman(1.7)(1.8)
+
+En la tarea vemos como nos llama el mismo login con nuestros datos ingresados anteriormente
+en el postman vemos como se llama el usuario y la contraseña acertando en nuestro logeuo
+dandonos un mensaje de bienvenida(Tarea1, Tarea2 y Tarea3)
+
+===========================================================================================
+
+Observaciones y Conclusiones:
+
+Conectamos nuestra pagina web en react con nuestra api creada por nosotros mismos.
+
+En cada peticion del servidor se debe comprobar el token proporcionado por el usuario y si 
+es correcto podra acceder a los recursos solicitados, de otra forma debera denegar la 
+peticion.
+
+Instalamos mas librerias para que nos ayuden en nuestro codigo.
+
+Fue extenso el laboraotorio ya que en partes si ejecutabamos daba error y como escribiamos
+harto codigo era un poco complicado buscar el error.
+
+Creamos un Json Web Token para que al momento de que el usuario se cree una cuenta, 
+le genere un token , en donde añadimas a nuestra API la ruta de poder actualizar el token, 
+o refrescar.
+
+Realizamos simples vistas con React.JS y con axios que nos permite hacer peticiones HTTP 
+consumimos nuestra API creada con express.
+
+Creamos una formulario de Login en React Native, de usuario y contraseña, en donde solo 
+validaba el usuario y la contraseña. 
+
+Recreamos lo echo en la web para el celular en el que nos pedia datos para un login

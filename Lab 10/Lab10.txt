@@ -1,0 +1,40 @@
+Instalamos el extension de chrome llamada redux devtools en la tienda de chrome(1.1)
+
+Luego de un arduo proceso escribiendo codigo error tras error vemos que no podemos entrar
+a chat sin antes haber iniciado sesion(1.2)
+
+Iniciamos sesion (1.3)
+
+Vemos que ahora si podemos entrar a ver el chat siempre y cuanod hayamos iniciado sesion(1.4)
+
+Vemos que con la sesion iniciada tenemos un menu(1.5)
+
+Pero cuando no estamos logueados nos muetsra solo inicio e Iniciar sesion (1.6)
+
+Vemos como la extension instalada en chrome capta todo lo que hacemos grabandolo con las 
+funciones que hicimos(1.7)
+
+============================================================================================
+
+Observaciones y conclusiones:
+
+Al escribir haaarto codigo sin ejecutar pueden surgir errores que hasta implican volver a 
+reescribir todo el codigo
+
+Instalamos una extension en Chrome llamada redox DevTools que nos ayudaba a ver como iba
+la pagina y que errores salian, tecnicamente grababa nuestros pasos.
+
+Hicimos para que nadei pueda acceder a la informacion sin antes haberse logueado.
+
+Controlamos los menus del header para solo ver los que esten loueados y los que no que miren
+otros menus.
+
+Fue un laboratorio muy tedioso que empezo en el lab06 y ahora esta casi completo y se nota 
+todo el avanze lab tras lab.
+
+Surgieron algunos errores pero se pudieron solucionar.
+
+El profesor nos ayudo en todos los problemas que tuvimos, en todas las dificultades.
+
+Al final varias partes de codig oque escribimos anteriormente las eliminamos y las 
+reemplazamos por lineas que hacian lo mismo pero mas recortadas.

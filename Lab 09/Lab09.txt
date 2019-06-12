@@ -1,0 +1,46 @@
+Primero añadimos donde decia cerrar sesion un boton que nos daba opciones para editar 
+perfil o ir al chat con una interfaz animada(1.1)
+
+Si le damos a editar perfil nos manda a donde podemos editar nombre y email.(1.2)
+
+Procedemos a editar los datos con lo que deseemos(1.3)
+
+Una vez le demos a guardar perfil nos saldra una pantallita de carga y una alerta 
+indicandonos que el usuario se a editado exitosamente(1.4)
+
+Si tratamos de presionar otros botones nos dara una alerta indicando que lo haremos 
+despues(1.5)
+
+Para probar que se edito tomamos la foto del (Foto del lab06) y vemos que los valores son
+difernetes a las de la foto(1.6) probando asi que se cambiaron los datos.
+
+===========================================================================================
+
+Observaciones y conclusiones
+
+Aprenidmos a ver la IP, metodos y tiempos de respuesta en las consultas a travez de morgan
+
+Usamos un componente de carga animado, existen muchas opciones en loading.io y elegimos una
+copiamos el codigo css y lo importamos en nuestra vista.
+
+Cremoas una vista para poder editar los datos del usuario.
+
+Vimos que faltan botones por implementarles funciones.
+
+Creamos la vista y la ruta de Perfil, como de PerfilEdit, para editar el nombre y contraseña del usuario.
+Usamos NavBar, VanLink, y NavDropwon para el header que son diferentes tipos de navegacion.  
+
+Hicimos una pantallita de carga para cuando demore alguna funcion en responder.
+
+Vi dentro del mongo que efectivamente cambio los datos que cambiamos en la pagina.
+
+Modificamos el dawa_api que no lo tocabamos desde el lab06
+
+Vemos una pagina con perfil con chat que es muy interactiva y con bonito diseño.
+
+Creamos un componente para guardar las URLS por separado, por el momento no es tan util, 
+ya que solo tenemos una URL, pero quizas podamos aumentar mas URLS, y llamarlas a travez de una variable.
+
+Desarrollamos Spinners y Subpaginas, creamos una variable que contiene un spinner, y luego 
+verificamos el estado de loading para que cuando cambie, nos muestre todo el contenido.
+

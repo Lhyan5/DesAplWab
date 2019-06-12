@@ -1,0 +1,39 @@
+Primero tenemos que instalar mongoDB en este caso ya esta instalado y tenemos que inicializarl
+o y abrirlo para poder instar tablas y datos para probar(1.1)
+
+Ahora insertamos datos a una tabla(1.2)
+
+Empezamos a instalar las dependencias en el lab pasado para poder iniciar la conexion(1.3)
+
+Lanzamos el proyecto(1.4)
+
+Vemos los resultados en el postman(1.5)
+
+Probamos la conexion con producto y vemos que llama los datos del mongoDB en formato JSON(1.6)
+
+Empezamos a probar los delete(1.7)
+
+Probamos el metodo PUT insertando datos(1.8)(1.9)
+
+Al tratar de conectar con los archivos jade nos daba un error para lo cual tuvimos que 
+instalar su paquete(2.0)
+
+Probamos el login y vemos que ahora is cargo con el paquete instalado(2.1)
+
+Ahora probamos la tabla(2.2)
+
+Ahora vemos como llamamos los datos del mongoDB a una tabla(2.3)
+
+=======================================================================================
+
+Observaciones y Conclusiones:
+
+Creamos las operaciones CRUD en el primer punto como get post put delete.
+
+Aprendimos a conectar los datos de la base de datos a nuestra pagina.
+
+Jalamos los dtaos a una tabla en la pagina.
+
+El laboratorio no nos decia todo lo que hacer y nosotros teniamos que buscar soluciones.
+
+Aprendimos a llamar los datos correctamente y a poner opciones de buscar.

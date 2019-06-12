@@ -1,0 +1,46 @@
+Vemos que la pagina de inicio isgue igual y continuamos con normalidas(1.1)
+
+Nos logueamos con el usuario creado hace 2 loaboratorios(1.2)
+
+Nos dara nuestro mensaje de bienvenida y le damos a Vamos al Chat(1.3)
+
+Nos da una interfaz bonita como si fuera realista, cosa que es proveniente del codigo(1.4)
+
+Probamos mandando mensaje y los mandaba con nomralidad(1.5)
+
+Pero al momento de probar con 2 pestañas distintas vemos que manda los mensajes como si fuera
+un chat en vivo entre 2 personas(1.6)
+
+En la consola se digita todos los mensajes enviados y cunado un usario se conecta(1.7)
+
+Instalamos now en nuestro proyecto(1.8)
+
+Nos creamos una cuenta en ZEIT con la cuenta de GIThub(1.9)
+
+Al momento de ejecutar el now en la consola de comandos nos pedira el correo el cual nos 
+mandara un correo para verificar este y una vez aceptado cargara todo lo echo(2.0)(2.1)
+
+=============================================================================================
+
+Observaciones y Conclusiones:
+
+Usando Sockets impelemtamos un chat en vivo a nuestro proyecto empezado en el laboratorio 06
+
+Creamos 2 componentes ChatContent y ChatMessages, uno para los mensajes y otro para el contenido, 
+al tener ya definido los estilos proporcionados por el profesor simplemente hacemos un llamado 
+de la ruta.
+
+Usamos Sockets en el ciclo pasado en Android y es practicamente lo mismo pero para la web cosa
+que ya teniamos una base plena.
+
+Creamos los componentes, para el contenido, usuarios y mensajes, y lo implementamos
+en una vista Chat, usamos estilos e importamos fortawesome para el uso de iconos.
+
+Usamos la libreria avatar, para obtener una imagen para los correos electronicos que nos daba al
+azar.
+
+Creaos una cuenta en ZEIT para realizar el deploy con ZEIT, usando now.sh ya que nos permite hacer deploy de 
+sitios en React, sino de otros lenguajes mas, como en node, php, go, y muchas mas.
+
+Nuestro proyecto tomo mucha forma desde el laboratorio 6 hasta ahora ya que emepzamos con simples lineas
+y ahora nos da una interfaz bien diseñada.

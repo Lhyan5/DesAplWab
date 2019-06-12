@@ -1,0 +1,12 @@
+table.table
+    thead
+        tr 
+            th ID
+            th Usuario
+            th Contraseña
+    tbody
+        for item in data
+            tr  
+                td= item._id
+                td= item.usuario
+                td= item.contrasena

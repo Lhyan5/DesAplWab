@@ -1,0 +1,46 @@
+Copiamos los archivos del laboratorio pasado e instalamos lo necesario para que funcione
+y despues instalamos bootstrap (1.1)(1.2)
+
+Iniciamos el servidor una vez puesto los diseños de boostrap(1.3)
+
+Asi tambien le pusimos al login(1.4)
+
+Insertamos imagenes que se mueven consecutivamente(1.5)(1.6)
+
+Cambiamos los textos del header (1.7)(1.8)
+
+Vemos que se cambian en todos (1.9)
+
+Probamos el login con los datos de usuario donde vemos que nos da una bienvenida con nuestro
+nombre de usuario(2.1)
+
+Vemos el enlace de los detalles y tambien esta con el estilo del bootstrap(2.2)
+
+Probamos el enlace en caso este mal la URL que nos da un error con diseño echo por nosotros(2.3)
+
+=============================================================================================
+
+Observaciones y conclusiones
+
+Usamos los estilos que bootstrap nos brinda e hicimos una pagina decente.
+
+Usamos el laboratorios pasado para trabajar y nos ahorramos el escribir codigo.
+
+Usamos localStorage para almacenamiento local al momento de ingresar nuestros datos.
+
+Cuando las imagenes son muy pesadas demora en cargar la pagina afectando el rendimiento 
+de esta
+
+Controlamos los errores como el 404 para que nos de una pantalla con el error pero con diseño.
+
+Instalamos las dependencias y modificamos las vistas, y las partes de la pagina como el 
+Header y el Footer.
+
+Creamos un High Order Component para la jerarquia de nuestros componentes, en este caso 
+Primero el Header Luego el Footer.
+
+Agregamos diseños como imagenes a nuestra pagina, como tambien slides, para una mejor 
+experiencia.
+
+Creamos contenido en nuestra pagina donde el header y footer eran estaticos y se usaban 
+para todas las vistas.
